@@ -4,7 +4,6 @@ function removeFirstTwo(list) {
   "use strict";
   // Only change code below this line
   const [, , ...array2] = list;
-  
 
   // Only change code above this line
   return array2;
